@@ -5,4 +5,8 @@ This is data extraction assessment towards the RDASH project. Below is the small
 
 2. main.ipynb - This is the actual code file that extract required scholars data from the apis embedded in those web pages.
 
-3. 
+3. Scholar_Info.xlsx - Contains the dataset of Name, Email , Department (Dept), Keywords (comma-seperated), Publication List (Pub List-comma seperated).
+
+## NOTE:
+
+This code is adjusted to contain upto 100 only scholar where all required fields are available due to computation contraints.
