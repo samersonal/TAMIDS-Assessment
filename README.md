@@ -9,4 +9,4 @@ This is data extraction assessment towards the RDASH project. Below is the small
 
 ## NOTE:
 
-This code is adjusted to contain upto 100 only scholar where all required fields are available due to computation contraints.
+This code is adjusted to contain upto 100 scholars whose all required fields are available(*due to computation contraints).
