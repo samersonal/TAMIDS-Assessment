@@ -7,7 +7,7 @@ Use "Export Directory" button to get the list as a csv (export.csv)
 ![image](https://github.com/samersonal/TAMIDS-Assessment/assets/32759792/f2b7d3f4-a8fb-479e-9f4b-eac87aebeb52)
 It gives a list of urls of individual web pages of all scholars available in the directory.
 
-2. **main.ipynb** - This is the actual code file that extracts required scholars data from the apis embedded in those web pages.
+2. **RDASH_Test.ipynb** - This is the actual code file that extracts required scholars data from the apis embedded in those web pages.
 
 3. **Scholar_Info.xlsx** - Contains the dataset of Name, Email , Department (Dept), Keywords (comma-seperated), Publication List (Pub List-comma seperated).
 
